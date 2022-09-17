@@ -20,6 +20,7 @@ If you have any ideas on how to improve it and what needs to be supplemented, wr
 
 The program was written by me entirely for myself. Therefore, I ask you to support with a coin)
 -Donat-
+
 BTC: bc1qsmcp9wns7azg58lhdpsct6jrwy2l8xl6u89ask 
 
 LTC: LXypK6aWpBcvxJDhVYkiY8ZyB56kMk8DCe 
